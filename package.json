@@ -1,9 +1,9 @@
 {
   "dependencies": {
     "discord.js": "^13.2.0"
+    
   }
-}
-
-"scripts": {
+  "scripts": {
   "start": "node index.js"
+}
 }
